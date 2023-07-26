@@ -1,0 +1,128 @@
+{
+  "input": {
+    "boost_id": null,
+    "creation_spec": {
+      "ads_lwi_goal": "GET_MULTI_MESSAGES",
+      "audience_option": "NCPP",
+      "auto_boost_settings_id": null,
+      "auto_targeting_sources": null,
+      "billing_event": "IMPRESSIONS",
+      "budget": 700000,
+      "budget_type": "LIFETIME_BUDGET",
+      "currency": "VND",
+      "duration_in_days": 7,
+      "is_automatic_goal": false,
+      "legacy_ad_account_id": "309640927204980",
+      "legacy_entry_point": "www_profile_plus_feed_composer",
+      "logging_spec": {
+        "reach_estimates": {
+          "lower_estimates": 2632,
+          "upper_estimates": 7608
+        },
+        "spec_history": [
+          {
+            "budget": 700000,
+            "currency": "VND"
+          },
+          {
+            "budget": 700000,
+            "currency": "VND"
+          },
+          {
+            "budget": 700000,
+            "currency": "VND"
+          },
+          {
+            "budget": 700000,
+            "currency": "VND"
+          },
+          {
+            "budget": 700000,
+            "currency": "VND"
+          },
+          {
+            "budget": 700000,
+            "currency": "VND"
+          },
+          {
+            "budget": 700000,
+            "currency": "VND"
+          },
+          {
+            "budget": 700000,
+            "currency": "VND"
+          },
+          {
+            "budget": 700000,
+            "currency": "VND"
+          },
+          {
+            "budget": 700000,
+            "currency": "VND"
+          },
+          {
+            "budget": 700000,
+            "currency": "VND"
+          }
+        ]
+      },
+      "messenger_welcome_message": {
+        "greeting": "Hi, {{user_first_name}}! Please let us know how we can help you.",
+        "icebreakers": [
+          "Do you offer any products or services?",
+          "Can I learn more about your background?",
+          "Are you available to chat?"
+        ],
+        "icebreakers_enabled": true
+      },
+      "pixel_event_type": null,
+      "pixel_id": null,
+      "placement_spec": {
+        "publisher_platforms": [
+          "FACEBOOK"
+        ]
+      },
+      "regulated_categories": [],
+      "regulated_category": "NONE",
+      "retargeting_enabled": false,
+      "run_continuously": false,
+      "saved_audience_id": null,
+      "special_ad_category_countries": [],
+      "start_time": null,
+      "surface": null,
+      "targeting_spec_string": "{\"age_min\":18,\"age_max\":65,\"geo_locations\":{\"countries\":[\"ID\"],\"location_types\":[\"home\"]}}",
+      "adgroup_specs": [
+        {
+          "creative": {
+            "call_to_action": {
+              "type": "MESSAGE_PAGE",
+              "value": {
+                "app_destination": "MESSENGER",
+                "link": "https://fb.com/messenger_doc/"
+              }
+            },
+            "degrees_of_freedom_spec": {},
+            "instagram_actor_id": "6680575611972435",
+            "instagram_branded_content": {},
+            "object_story_id": "100533542965110_105039799178073",
+            "use_page_actor_override": null
+          }
+        }
+      ],
+      "cta_data": {
+        "is_cta_share_post": false,
+        "link": "https://fb.com/messenger_doc/",
+        "type": "MESSAGE_PAGE"
+      },
+      "objective": "MESSAGES"
+    },
+    "external_dependent_ent_id": null,
+    "flow_id": "d90e1404-0afd-4ef4-b640-5fc323cff3d1",
+    "manual_review_requested": false,
+    "page_id": "100533542965110",
+    "product": "BOOSTED_POST",
+    "target_id": "105039799178073",
+    "actor_id": "100090161584785",
+    "client_mutation_id": "5"
+  }
+}

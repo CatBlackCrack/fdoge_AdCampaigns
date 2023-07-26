@@ -1,0 +1,20 @@
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\obj\Debug\net48\fdoge_AdCampaigns.csproj.AssemblyReference.cache
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\obj\Debug\net48\fdoge_AdCampaigns.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\obj\Debug\net48\A618D5A2.resources
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\obj\Debug\net48\FBBE97AE.resources
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\obj\Debug\net48\fBmAccount.resources
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\obj\Debug\net48\fdoge_AdCampaigns.csproj.GenerateResource.cache
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\obj\Debug\net48\fdoge_AdCampaigns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\obj\Debug\net48\fdoge_AdCampaigns.csproj.CoreCompileInputs.cache
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\bin\Debug\net48\fdoge_AdCampaigns.exe.config
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\bin\Debug\net48\fdoge_AdCampaigns.exe
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\bin\Debug\net48\fdoge_AdCampaigns.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\bin\Debug\net48\DeviceId.dll
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\bin\Debug\net48\Newtonsoft.Json.dll
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\bin\Debug\net48\Otp.NET.dll
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\bin\Debug\net48\xNet.dll
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\obj\Debug\net48\fdoge_AdCampaigns.csproj.CopyComplete
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\obj\Debug\net48\fdoge_AdCampaigns.exe
+D:\Desktop\ToolCSharpAndSourceCode\ADS Tool\1New0906\fdoge_AdCampaigns.2.0.4\Source\fdoge_AdCampaigns\obj\Debug\net48\fdoge_AdCampaigns.pdb
+D:\Source - fdoge_AdCampaigns\fdoge_AdCampaigns\fdoge_AdCampaigns\obj\Debug\net48\fdoge_AdCampaigns.exe
+D:\Source - fdoge_AdCampaigns\fdoge_AdCampaigns\fdoge_AdCampaigns\obj\Debug\net48\fdoge_AdCampaigns.pdb

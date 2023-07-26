@@ -1,0 +1,111 @@
+{
+  "input": {
+    "boost_id": null,
+    "creation_spec": {
+      "ads_lwi_goal": "GET_POST_ENGAGEMENT",
+      "audience_option": "NCPP",
+      "auto_boost_settings_id": null,
+      "auto_targeting_sources": null,
+      "billing_event": "IMPRESSIONS",
+      "budget": 300000,
+      "budget_type": "LIFETIME_BUDGET",
+      "currency": "VND",
+      "duration_in_days": 7,
+      "is_automatic_goal": false,
+      "legacy_ad_account_id": "309640927204980",
+      "legacy_entry_point": "new_timeline",
+      "logging_spec": {
+        "reach_estimates": {
+          "lower_estimates": 1119,
+          "upper_estimates": 3234
+        },
+        "spec_history": [
+          {
+            "budget": 300000,
+            "currency": "VND"
+          },
+          {
+            "budget": 300000,
+            "currency": "VND"
+          },
+          {
+            "budget": 300000,
+            "currency": "VND"
+          },
+          {
+            "budget": 300000,
+            "currency": "VND"
+          },
+          {
+            "budget": 300000,
+            "currency": "VND"
+          },
+          {
+            "budget": 300000,
+            "currency": "VND"
+          },
+          {
+            "budget": 300000,
+            "currency": "VND"
+          },
+          {
+            "budget": 300000,
+            "currency": "VND"
+          },
+          {
+            "budget": 300000,
+            "currency": "VND"
+          }
+        ]
+      },
+      "messenger_welcome_message": null,
+      "pixel_event_type": null,
+      "pixel_id": null,
+      "placement_spec": {
+        "publisher_platforms": [
+          "FACEBOOK"
+        ]
+      },
+      "regulated_categories": [],
+      "regulated_category": "NONE",
+      "retargeting_enabled": false,
+      "run_continuously": false,
+      "saved_audience_id": null,
+      "special_ad_category_countries": [],
+      "start_time": null,
+      "surface": null,
+      "targeting_spec_string": "{\"age_min\":18,\"age_max\":30,\"geo_locations\":{\"countries\":[\"VN\"],\"location_types\":[\"home\"]},\"interest_defaults_source\":\"settings_non_holdout\"}",
+      "adgroup_specs": [
+        {
+          "creative": {
+            "call_to_action": {
+              "type": "MESSAGE_PAGE",
+              "value": {
+                "app_destination": "MESSENGER",
+                "link": "https://fb.com/messenger_doc/"
+              }
+            },
+            "degrees_of_freedom_spec": {},
+            "instagram_branded_content": {},
+            "object_story_id": "105294302480385_109798802029935",
+            "use_page_actor_override": null
+          }
+        }
+      ],
+      "cta_data": {
+        "is_cta_share_post": false,
+        "link": "https://fb.com/messenger_doc/",
+        "type": "MESSAGE_PAGE"
+      },
+      "objective": "POST_ENGAGEMENT"
+    },
+    "external_dependent_ent_id": null,
+    "flow_id": "00add251-462c-40e7-b3a7-b1b872a1987d",
+    "manual_review_requested": false,
+    "page_id": "105294302480385",
+    "product": "BOOSTED_POST",
+    "target_id": "109798802029935",
+    "actor_id": "100050875162980",
+    "client_mutation_id": "1"
+  }
+}

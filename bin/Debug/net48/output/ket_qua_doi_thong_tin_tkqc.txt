@@ -1,0 +1,11 @@
+﻿act_394546046025363=>->Currency_OK,Timezone_OK-{53}Vietnamese Dong (VND)-"Asia/Jakarta":{Jakarta +07:00}-CN
+act_394546046025363=>->Currency_OK,Timezone_OK-{53}Vietnamese Dong (VND)-"Asia/Jakarta":{Jakarta +07:00}-CN
+act_394546046025363=>->Currency_OK,Timezone_OK-{53}Vietnamese Dong (VND)-"Asia/Jakarta":{Jakarta +07:00}-CN
+act_394546046025363=>->Currency_OK,Timezone_OK-{53}Vietnamese Dong (VND)-"Asia/Jakarta":{Jakarta +07:00}-CN
+act_394546046025363=>->Currency_OK,Timezone_OK-{53}Vietnamese Dong (VND)-"Asia/Jakarta":{Jakarta +07:00}-CN
+act_400593241997160=>->Currency_OK,Timezone_OK-{53}Vietnamese Dong (VND)-"Asia/Jakarta":{Jakarta +07:00}-CN
+act_400593241997160=>->Currency_OK,Timezone_OK-{53}Vietnamese Dong (VND)-"Asia/Jakarta":{Jakarta +07:00}-CN
+act_185689321619525=>->Currency_Fail,Timezone_Fail-{28}Kenyan Shilling (KES)-"Asia/Jakarta":{Jakarta +07:00}-CN
+act_1444557399085546=>->Currency_Fail,Timezone_Fail-{28}Kenyan Shilling (KES)-"Asia/Jakarta":{Jakarta +07:00}-CN
+act_730006114895397=>->Currency_OK,Timezone_OK-{1}UAE Dirham (AED)-"Asia/Ho_Chi_Minh":{Ho Chi Minh +07:00}-VN
+act_1206380856569230=>->Currency_OK,Timezone_OK-{1}UAE Dirham (AED)-"Asia/Ho_Chi_Minh":{Ho Chi Minh +07:00}-VN

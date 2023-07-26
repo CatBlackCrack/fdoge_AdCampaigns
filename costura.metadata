@@ -1,0 +1,25 @@
+costura.costura.dll.compressed|5.7.0.0|Costura, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|F1F25C01F6ACF33BDD62C4F82D3EF078E76F0906|4608
+costura.costura.pdb.compressed|||Costura.pdb|6C6000A5EAF8579850AB82A89BD6268776EB51AD|2608
+costura.deviceid.dll.compressed|4.4.0.0|DeviceId, Version=4.4.0.0, Culture=neutral, PublicKeyToken=null|DeviceId.dll|FDEC19E04E4C05078C99AD70A70E924CC3EA59C4|13824
+costura.microsoft.win32.primitives.dll.compressed|4.0.2.0|Microsoft.Win32.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|Microsoft.Win32.Primitives.dll|AFA308C0166D8CBDD1D5E6FDAA8C9B87EB9184E7|22768
+costura.newtonsoft.json.dll.compressed|13.0.0.0|Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed|Newtonsoft.Json.dll|7D0AD03FBDA1C24F883116B940717E596073AE96|701992
+costura.otp.net.dll.compressed|1.2.2.0|Otp.NET, Version=1.2.2.0, Culture=neutral, PublicKeyToken=null|Otp.NET.dll|ACBEA6724A3884368791A90AD78C138A44B7335D|15360
+costura.otp.net.pdb.compressed|||Otp.NET.pdb|F2E8C3DD888FDA339198921C060F65C4F1460E1E|7096
+costura.system.appcontext.dll.compressed|4.0.0.0|System.AppContext, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.AppContext.dll|C9A0C7200AD55960A1E1824B04718CBF6CA84581|20168
+costura.system.console.dll.compressed|4.0.1.0|System.Console, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Console.dll|B5102629939EBDD4BCD0F407A92828DEE5F2B565|34496
+costura.system.diagnostics.diagnosticsource.dll.compressed|4.0.1.0|System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Diagnostics.DiagnosticSource.dll|85DC92EDD4B0049ED9049E075C4DEF8A3D64E43B|35760
+costura.system.globalization.calendars.dll.compressed|4.0.2.0|System.Globalization.Calendars, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Globalization.Calendars.dll|30AE8C8E57BCABE27BA675FA84D4DA6AF3C10EAD|23296
+costura.system.io.compression.dll.compressed|4.1.2.0|System.IO.Compression, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IO.Compression.dll|629CE95C12B21678D877359EC4552D431C1CFBAB|111984
+costura.system.io.compression.zipfile.dll.compressed|4.0.2.0|System.IO.Compression.ZipFile, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IO.Compression.ZipFile.dll|99D6C187DE8510206A93D2EED9C65E65E0C86E72|24824
+costura.system.io.filesystem.dll.compressed|4.0.2.0|System.IO.FileSystem, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.IO.FileSystem.dll|B46AD93384323ED4AA88E8AF3CDEE208A88F1F6D|22736
+costura.system.io.filesystem.primitives.dll.compressed|4.0.2.0|System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.IO.FileSystem.Primitives.dll|8374975CA07A300021EF0ACAA4F908D5BFB102FB|22784
+costura.system.net.http.dll.compressed|4.1.1.0|System.Net.Http, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Net.Http.dll|6D344A09471D8B4B849F16B0EEBBAFF8688A17CE|265048
+costura.system.net.sockets.dll.compressed|4.1.1.0|System.Net.Sockets, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Net.Sockets.dll|00278D53E59026CD8C22889773466FEF27D52BBF|46280
+costura.system.runtime.interopservices.runtimeinformation.dll.compressed|4.0.1.0|System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Runtime.InteropServices.RuntimeInformation.dll|4E490D7EC139A6CDE53E3932D3122A48AA379904|33256
+costura.system.security.cryptography.algorithms.dll.compressed|4.1.0.0|System.Security.Cryptography.Algorithms, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Security.Cryptography.Algorithms.dll|413C96C3AE407532DB4C1CE3085A8F99675A8AD4|39872
+costura.system.security.cryptography.encoding.dll.compressed|4.0.1.0|System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Security.Cryptography.Encoding.dll|A0F2C03CB813317460133DE80231D7B1FB62DCC5|23480
+costura.system.security.cryptography.primitives.dll.compressed|4.0.1.0|System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Security.Cryptography.Primitives.dll|62A622557CC0D6FCED9C1A14BE28DBC39E9BD6FC|22816
+costura.system.security.cryptography.x509certificates.dll.compressed|4.1.1.0|System.Security.Cryptography.X509Certificates, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Security.Cryptography.X509Certificates.dll|4BEB5C11208AFFAD40BDAC6672A7B0B7B4558E7B|38872
+costura.system.xml.readerwriter.dll.compressed|4.1.0.0|System.Xml.ReaderWriter, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Xml.ReaderWriter.dll|765C9E4D36B4F2986514C1AB24B5E5E56AFFF448|23264
+costura.xnet.dll.compressed|3.3.3.0|xNet, Version=3.3.3.0, Culture=neutral, PublicKeyToken=null|xNet.dll|E6C57B0D59B25F1431D0AEDCF2622453717096C6|113664
+costura.xnet.pdb.compressed|||xNet.pdb|2BCBABE61C9B569F48E1AA3CCF9D6F4F44A6F399|282112
